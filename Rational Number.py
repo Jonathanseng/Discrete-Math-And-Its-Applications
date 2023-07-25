@@ -15,7 +15,7 @@ def main():
   print("1/2 is a rational number:", is_rational(1/2))
   print("3.14 is a rational number:", is_rational(3.14))
   print("-5/6 is a rational number:", is_rational(-5/6))
-  print("1 1/2 is a rational number:", is_rational(1 1/2))
+  print("1 1/2 is a rational number:", is_rational(11/2))
   print("1/0 is not a rational number:", is_rational(1/0))
 
 
